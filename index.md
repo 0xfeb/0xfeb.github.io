@@ -18,6 +18,6 @@ Email: wangyuanou@foxmail.com
 ### License
 This is a personal software made by Daniel Wang. Source code and copyright belongs to Daniel Wang.
 
-Copyright of third partys like programming tools, libraries, IDE belongs of themself, including Flutter, Dart, XCode, Android Studio, Baidu Voice and so on.
+Copyright of third partys likes programming tools, libraries, IDE belongs of themself, including Flutter, Dart, XCode, Android Studio, Baidu Voice and so on.
 
 ![avatar](./2.jpg)
